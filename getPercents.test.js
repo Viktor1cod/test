@@ -1,6 +1,6 @@
 const getPercents = require('./getPercents');
 
-descript('getPercents', () => {
+describe('getPercents', () => {
     test('30% от 200 = 60', () => {
         expect(getPercents(30, 200)).toBe(60);
     });

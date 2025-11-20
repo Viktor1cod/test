@@ -1,0 +1,24 @@
+{
+  "name": "tst",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "getPercents.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viktor1cod/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Viktor1cod/test/issues"
+  },
+  "homepage": "https://github.com/Viktor1cod/test#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
